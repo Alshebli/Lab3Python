@@ -19,7 +19,7 @@ def run():
   N=sum_n(n)
   print(f"sum is {N}.")
   s=str(input("Enter a string: "))
-  print_n(s,N)
+  print_n(s,n)
 
 if __name__== '__main__':
   run ()
